@@ -1,0 +1,6 @@
+
+Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming  is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
+
+A engenharia de Software se foca em requisitos não funcionais como usuabilidade, eficiencia e escalabilidade, ela se foca no que é necessário paa o projeto num todo, já a programação seria uma ferramenta para criar o software e dar as suas funcionalidades.
+Para explicar melhor podemos pensar na construção de um carro, para algo ser considerado um carro ele precisa ter 4 rodas, uma carcaça com espaço pra passsageiro e motorista, sendo um veículo de médio porte com a capacidade de andar. todo carro possui esses atributos.
+A programação daria as funções primordiais do carro, mas a engenharia de software além das funcionalidades se importaria com o material utilizado para torna-lo mais duradouro, conforto do motorista,eficiencia dele entre outros.
