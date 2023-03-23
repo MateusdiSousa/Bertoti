@@ -1,5 +1,5 @@
 O que é engenharia de software?
-    A engenharia de software seria a criação de softwares e o planejamento de como será construído, se preocupando com a técnlogia usada, escalabilidade do projeto, usuabilidade do usuário, requisitos não funcionais e escolhas do qque usar para o projeto ser o melhor possível(trade-off).
+    A engenharia de software seria a criação de softwares e o planejamento de como será construído, se preocupando com a técnlogia usada, escalabilidade do projeto, Tempo utilizadp, requisitos não funcionais e escolhas do que usar para o projeto ser o melhor possível(trade-off).
     EXEMPLO: Na construção de uma boa casa precisaria de uma plano de construção, materias resistentes a variações do clima, uma boa localidade e um projeto visual de como ficaria a casas e suas medidas. Já que começar a construir sem um planejamento aumentaria as chances da casa de ter algum problema futuro 
 
 O que são requisitos?
