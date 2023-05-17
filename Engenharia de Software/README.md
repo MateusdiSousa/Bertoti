@@ -29,5 +29,14 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 A engenharia de Software se foca em requisitos não funcionais como usuabilidade, eficiencia e escalabilidade, ela se foca no que é necessário paa o projeto num todo, já a programação seria uma ferramenta para criar o software e dar as suas funcionalidades. Para explicar melhor podemos pensar na construção de um carro, para algo ser considerado um carro ele precisa ter 4 rodas, uma carcaça com espaço pra passsageiro e motorista, sendo um veículo de médio porte com a capacidade de andar. todo carro possui esses atributos. A programação daria as funções primordiais do carro, mas a engenharia de software além das funcionalidades se importaria com o material utilizado para torna-lo mais duradouro, conforto do motorista,eficiencia dele entre outros.
 
 
+<p>Diferença entre Programação e Engenharia de Software</p>
+
+We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play.On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. Finally, as software engineers, we are asked to make more complex decisions with higher-stakes outcomes, often based on imprecise estimates of time and growth.
+
+We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. Finally, as software engineers, we are asked to make more complex decisions with higher-stakes outcomes, often based on imprecise estimates of time and growth.
+
+Essas diferenças mostram que a engenharia de software foca muito mais a eficiente e a longividade do produto, focando na escala que o produto pode atingir e na melhor forma de realizar mudanças e manutenções para um projeto grande. Exemplo: Um sistema de grande porte precisa suporta milhares de acesso simultâneos sem travamento ou lentidão, como o Whatsapp, um exemplo de sistema que não foi bem planejado foi o SIGA da Fatec, já que segundo alguns professores, o site no final do semestre sofre de grande lentidão pois tem milhares de acessos pelos professores Fatec
+
+
 
 
