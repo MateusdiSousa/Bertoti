@@ -43,5 +43,6 @@ We see three critical differences between programming and software engineering: 
 Essas diferenças mostram que a engenharia de software foca muito mais a eficiente e a longividade do produto, focando na escala que o produto pode atingir e na melhor forma de realizar mudanças e manutenções para um projeto grande. Exemplo: Um sistema de grande porte precisa suporta milhares de acesso simultâneos sem travamento ou lentidão, como o Whatsapp, um exemplo de sistema que não foi bem planejado foi o SIGA da Fatec, já que segundo alguns professores, o site no final do semestre sofre de grande lentidão pois tem milhares de acessos pelos professores Fatec
 
 
-
+<h2>TradeOff na Api</h2>
+<p>Durante a api utilizamos uma IDE para a criação da interface gráfico, e a ela possuia uma facilidade na criação de telas por conseguir arrastar os elementos visuais, porém codar os elementos foi necessários pois a IDE possuia limitações na criação de elementos gráficos dinâmicos </p>
 
