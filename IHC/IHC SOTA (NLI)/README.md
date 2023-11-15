@@ -7,7 +7,7 @@ Repositório para as atividades em GRUPO da disciplina Interação Humano Comput
 ## Professor Giuliano Bertoti
 
 | Partipantes | Github |
-| -------- |-------- |
+| --------- | --------- |
 | Claudia Secco | <a href="https://github.com/ClaudiaCBS" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> |
 | Joice Araujo | <a href="https://github.com/Joice-Araujo" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> |
 | Mateus de Sousa | <a href="https://github.com/MateusdiSousa" target="_blanck"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> |
