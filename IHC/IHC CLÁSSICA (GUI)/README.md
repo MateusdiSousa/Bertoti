@@ -3,6 +3,7 @@ As 10 heurísticas de Nielsen são um conjunto de princípios de usabilidade cri
 
 <h2>1 - Visibilidade do status do sistema:</h2>
 Os usuários devem ser informados sobre o que está acontecendo no sistema através de feedback adequado em tempo real, como mensagens, indicadores ou animações.
+<img src='IHC/IHC CLÁSSICA (GUI)/img/Heuristica 1.jpg'>
 
 <h2>2 - Correspondência entre o sistema e o mundo real:</h2>
 A linguagem, terminologia e conceitos utilizados na interface devem ser familiares e refletir o mundo real para que os usuários possam entender e prever o comportamento do sistema.
