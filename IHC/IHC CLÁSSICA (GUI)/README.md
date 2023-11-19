@@ -34,7 +34,6 @@ Elementos de design, como cores, ícones e posicionamento de botões, devem ser 
 
 <h2>5 - Prevenção de erros:</h2>
 O design deve ser orientado para evitar que os usuários cometam erros. Isso pode incluir confirmações antes de ações críticas e restrições para evitar entrada incorreta.
-Um exemplo de falha nessa heurística está no site SIGA da Fatec, onde o botão de deslogar do perfl não é sinalizado:
 
 
 
