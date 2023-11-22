@@ -108,6 +108,7 @@ Mensagens de erro devem ser expressas de forma clara e construtiva, indicando o 
 <details>
   <summary>Exemplo</summary>
   No site do Siga o sistema não consegue diagnosticar ou fornecer uma resolução do erro como por exemplo estar mátriculado nas aulas e não ser possível verificar os horários de aula.
+  
   ![heuristica 9](https://github.com/MateusdiSousa/Bertoti/assets/111647763/fcb5db9c-a97f-44d6-ae98-85e4d523ff1f)
 
   ![heuristica 9 pt2](https://github.com/MateusdiSousa/Bertoti/assets/111647763/fcbe645d-76e5-4f5a-874b-f246d5568955)
