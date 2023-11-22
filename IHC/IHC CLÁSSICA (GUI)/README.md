@@ -83,6 +83,7 @@ O sistema deve ser eficiente tanto para usuários novatos quanto para usuários 
   <summary>Exemplo</summary>
   No site do Siga a plataforma possui uma fonte extremamente pequenas para usuários que utilizam celular, e caso apliquem zomm, o textos são cortados perdendo informação e eficiênca do software.
   
+![284028515-df3ec3e8-b3e6-4332-84d8-c1c61d6a4e98](https://github.com/MateusdiSousa/Bertoti/assets/111647763/55c0adda-b48e-467b-8a71-1c5fc98d1c12)
 
     
 </details>
