@@ -29,16 +29,52 @@ No site do Siga para sair da plataforma é necessário aperta um botão vermelho
 <h2>3 - Controle e liberdade do usuário:</h2>
 Os usuários devem ter a liberdade de navegar no sistema sem se sentir perdidos. Deve ser fácil desfazer ações indesejadas e retornar a estados anteriores.
 
+<details>
+<summary>Exemplo</summary>
+Na imagem a seguir, é possível notar que, ao ingressar em um jogo no aplicativo Plato, o usuário encontra obstáculos ao tentar encerrar a partida. Mesmo ao selecionar a opção de saída, a interface continua a indicar que o usuário está ativo no jogo, restringindo sua capacidade de decidir livremente quando deseja encerrar sua participação em uma partida.
+
+<div style='aling : center'>
+
+  ![heuristica 3](https://github.com/MateusdiSousa/Bertoti/assets/111647763/32693be7-25a0-4a34-be48-7c5386845bef)
+
+  
+</div>
+ 
+
+
+</details>
+
 <h2>4 - Consistência e padrões:</h2>
 Elementos de design, como cores, ícones e posicionamento de botões, devem ser consistentes em toda a interface para evitar confusão e facilitar a aprendizagem do sistema.
+
+<details>
+  <summary>Exemplo</summary>
+  Na imagem abaixo, notamos que o site exibe uma barra de navegação na lateral esquerda, ao passo que o padrão esperado seria uma disposição centralizada na parte superior da página. além disso o texto das opções do texto estão na vertical ao invés da horizontal
+
+  ![Heurística 4'1](https://github.com/MateusdiSousa/Bertoti/assets/111647763/ff5f22d8-1606-423e-9879-ec979a46c2df)
+
+</details>
 
 <h2>5 - Prevenção de erros:</h2>
 O design deve ser orientado para evitar que os usuários cometam erros. Isso pode incluir confirmações antes de ações críticas e restrições para evitar entrada incorreta.
 
+<details>
+<summary>Exemplo</summary>
+Na imagem apresentada abaixo, é visível que o anúncio do aplicativo mostra duas opções de encerramento, sendo que somente uma delas encerra efetivamente o aplicativo. Essa diferença pode levar o usuário a cometer um erro, induzindo-o a clicar na opção inadequada.
 
+![05_heuristica](https://github.com/ClaudiaCBS/ADS03_IHC001/assets/112169639/e19468ad-2d74-4ff4-8ac4-9323c96032d3)
+</details>
 
 <h2>6 - Reconhecimento ao invés de lembrança:</h2>
 As informações e opções importantes devem ser visíveis e facilmente acessíveis, evitando que os usuários precisem lembrar informações de uma tela para outra.
+
+<details>
+<summary>Exemplo</summary>
+Na imagem abaixo, o software Excel demanda uma extensa sequência de etapas para a simples tarefa de salvar um arquivo, aumentando a probabilidade do usuário esquecer esse procedimento ou se perder em alguma etapa.
+
+![heuristica 6](https://github.com/MateusdiSousa/Bertoti/assets/111647763/985fae1e-8687-43a4-a9b9-c3a21add6cec)
+
+</details>
 
 <h2>7 - Flexibilidade e eficiência de uso:</h2>
 O sistema deve ser eficiente tanto para usuários novatos quanto para usuários experientes. Atalhos e funcionalidades avançadas devem estar disponíveis para usuários experientes.
@@ -47,8 +83,8 @@ O sistema deve ser eficiente tanto para usuários novatos quanto para usuários 
   <summary>Exemplo</summary>
   No site do Siga a plataforma possui uma fonte extremamente pequenas para usuários que utilizam celular, e caso apliquem zomm, o textos são cortados perdendo informação e eficiênca do software.
   
-  ![Heuristica 3](https://github.com/MateusdiSousa/Bertoti/assets/111647763/df3ec3e8-b3e6-4332-84d8-c1c61d6a4e98)
-  
+
+    
 </details>
 
 <h2>8 - Design estético e minimalista:</h2>
